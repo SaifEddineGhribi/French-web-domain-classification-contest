@@ -11,4 +11,4 @@ Overview
 
 Contest link : https://www.kaggle.com/c/fr-domain-classification/ 
 <br>
-Team Name : EPT
+Team Name : EPT (rank 9/45)
